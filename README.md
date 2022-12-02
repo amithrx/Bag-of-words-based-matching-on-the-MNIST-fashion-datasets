@@ -1,1 +1,1 @@
-# amithrx-Bag-of-words-based-matching-on-the-MNIST-fashion-datasets
+# Bag of words based matching on the MNIST fashion datasets
